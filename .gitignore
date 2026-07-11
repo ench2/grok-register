@@ -10,7 +10,6 @@ env/
 accounts_*.txt
 mail_credentials.txt
 *.txt
-!requirements.txt
 
 config.json
 config.local.json
